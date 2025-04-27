@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FelipeGmss
-- 👀 I’m interested in content for backend (java, python, mysql...).
+- 👀 I’m interested in content for backend (java, kotlin,Springboot, mysql...).
 - 🌱 I’m currently learning php and Mysql.
 - 💞️ I’m looking to collaborate in systems development.
 - 📫 How to reach me by instagram.
